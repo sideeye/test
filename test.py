@@ -5,11 +5,11 @@ from matplotlib import pyplot as plt
 x = np.linspace(-7, 7, 100)
 
 # Параметры распределений
-loc_h0=0
-scale_h0=1
+loc_h0 = 0
+scale_h0 = 1
 
-loc_h1=2
-scale_h1=2
+loc_h1 = 2
+scale_h1 = 2
 
 # Критерий H0 : x <= threshold; H1 x > threshold
 
